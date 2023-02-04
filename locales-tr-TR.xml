@@ -97,19 +97,19 @@
     <term name="version">versiyon</term>
 
     <!-- LONG ITEM TYPE FORMS -->
-    <term name="article">preprint</term>
+    <term name="article">makale</term>
     <term name="article-journal">journal article</term>
-    <term name="article-magazine">magazine article</term>
-    <term name="article-newspaper">newspaper article</term>
-    <term name="bill">bill</term>
+    <term name="article-magazine">magazin makalesi</term>
+    <term name="article-newspaper">gazete makalesi</term>
+    <term name="bill">fatura</term>
     <!-- book is in the list of locator terms -->
-    <term name="broadcast">broadcast</term>
+    <term name="broadcast">yayın</term>
     <!-- chapter is in the list of locator terms -->
-    <term name="classic">classic</term>
-    <term name="collection">collection</term>
-    <term name="dataset">dataset</term>
-    <term name="document">document</term>
-    <term name="entry">entry</term>
+    <term name="classic">klasik</term>
+    <term name="collection">koleksiyon</term>
+    <term name="dataset">veri kümesi</term>
+    <term name="document">belge</term>
+    <term name="entry">giriş</term>
     <term name="entry-dictionary">dictionary entry</term>
     <term name="entry-encyclopedia">encyclopedia entry</term>
     <term name="event">event</term>
@@ -161,8 +161,8 @@
     <term name="song" form="short">audio rec.</term>
 
     <!-- HISTORICAL ERA TERMS -->
-    <term name="ad">M.S.</term>
-    <term name="bc">M.Ö.</term>
+    <term name="ad">MS</term>
+    <term name="bc">MÖ</term>
     <term name="bce">BCE</term>
     <term name="ce">CE</term>
 
@@ -177,7 +177,7 @@
     <term name="semicolon">;</term>
 
     <!-- ORDINALS -->
-    <term name="ordinal">.</term>
+    <term name="ordinal">sıra sayısı</term>
 
     <!-- LONG ORDINALS -->
     <term name="long-ordinal-01">birinci</term>
